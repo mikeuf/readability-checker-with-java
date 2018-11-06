@@ -16,15 +16,15 @@ The Readability Checker will provide an analysis of the selection. Text with goo
 **Note:** If a very small amount of text is entered, the checker may provide unusual scores due to the small sample size.<br /> 
 
 **Figure 1 - Good readability**
-![Good readability](https://github.com/mikeuf/readability-checker-with-cs/blob/master/screenshots/good-readability.jpg "Good readability")
+![Good readability](https://github.com/mikeuf/readability-checker-with-java/blob/master/screenshots/good-readability.jpg "Good readability")
 <br />
 <br />
 **Figure 2 - Medium readability**
-![Medium readability](https://github.com/mikeuf/readability-checker-with-cs/blob/master/screenshots/medium-readability.jpg "Medium readability")
+![Medium readability](https://github.com/mikeuf/readability-checker-with-java/blob/master/screenshots/medium-readability.jpg "Medium readability")
 <br />
 <br />
 
 **Figure 3 - Difficult readability**
-![Difficult readability](https://github.com/mikeuf/readability-checker-with-cs/blob/master/screenshots/difficult-readability.jpg "Difficult readability")
+![Difficult readability](https://github.com/mikeuf/readability-checker-with-java/blob/master/screenshots/difficult-readability.jpg "Difficult readability")
 <br />
 <br />
