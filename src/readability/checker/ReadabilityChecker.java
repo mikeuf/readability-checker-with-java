@@ -224,6 +224,7 @@ public class ReadabilityChecker extends Application {
           lblFKScoreNumber.setText(decimal.format(tracker.getFKScore()));
       });
 
+			// creates the Window
       primaryStage.setTitle("Readability Checker");
       primaryStage.setScene(scene);
       primaryStage.show();
